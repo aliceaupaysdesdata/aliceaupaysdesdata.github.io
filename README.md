@@ -2,4 +2,4 @@
 
 Projet en HTML et CSS
 
-[Lien](https://aliceaupaysdesdata.github.io/ "Consultez mon CV") 
+[Consultez mon CV](https://aliceaupaysdesdata.github.io/) 
